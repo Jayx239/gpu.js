@@ -8,7 +8,8 @@
     "test": "test"
   },
   "dependencies": {
-    "acorn": "^5.1.1"
+    "acorn": "^5.1.1",
+    "javascript-to-typescript": "^1.0.2"
   },
   "devDependencies": {
     "babel-plugin-syntax-async-functions": "^6.5.0",
@@ -30,6 +31,7 @@
     "merge-stream": "^1.0.1",
     "qunit-assert-close": "^2.1.2",
     "qunitjs": "^2.3.2",
+    "typings": "^2.1.1",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
